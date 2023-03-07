@@ -40,3 +40,4 @@ __University:__ Admiral Makarov National University of Shipbuilding, Information
 __CS50__<br>
 __RS-school__<br>
 ## English:
+__Pre-Intermediate__
